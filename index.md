@@ -1,4 +1,4 @@
-#COVID-19 Vaccine
+# COVID-19 Vaccine
 
 Our bodies have many natural defences agains infections and diseases.  On of the most powerful is the production of antibodies.  When our bodies are exposed to foreign elements, cells in our bone marrow will produce antibodies specifically engineered to attack a part of the foreign element called an antigen.  This attack is very specific (a single antibody is very specific to  one, and only one kind of antigen).  
 
