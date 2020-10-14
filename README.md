@@ -1,2 +1,2 @@
-# thoughts
-Source for pages I create in order to share some of thoughts I've been having.
+# Thoughts
+Some pages that will allow me to share some of thoughts I've been having.
