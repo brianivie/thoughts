@@ -1,6 +1,6 @@
 # COVID-19 Vaccine
 
-Our bodies have many natural defences agains infections and diseases.  On of the most powerful is the production of antibodies.  When our bodies are exposed to foreign elements, cells in our bone marrow will produce antibodies specifically engineered to attack a part of the foreign element called an antigen.  This attack is very specific (a single antibody is very specific to  one, and only one kind of antigen).  
+Our bodies have many natural defences against infections and diseases.  On of the most powerful is the production of antibodies.  When our bodies are exposed to foreign elements, cells in our bone marrow will produce antibodies specifically engineered to attack a part of the foreign element called an antigen.  This attack is very specific (a single antibody is very specific to  one, and only one kind of antigen).  
 
 Once our body has created an antibody for a specific antigen (foreign element), its ability to reproduce those efforts the second, third, fourth and so on ... times is significantly faster.  This is how vaccines work.  Our body is exposed to a "non virulent" form of the virus (think of them as cars with the engines damaged or removed)  Our body develops antibodies for the car's body, and then when it encounters others with similar bodies, it is able to quick mount an attack to defend against that particular virus.
 
